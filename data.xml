@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<myXMLdata>
+
+	<dot who="Want to bang your mind!!" x="1140" y="2545" txt_x="1111" txt_y="2516" adr="ул. Кастанаевская д9к2" info="" />
+	<dot who="-Johny-" 	x="350"  y="2440" txt_x="330"  txt_y="2445" adr="" info="ул. Малая Филевская д6к2" />
+	<dot who="AL50"	 	x="600"  y="2570" txt_x="607"  txt_y="2555" adr="ул. Олеко Дундича д31" info="" />
+	<dot who="laier" 	x="530"  y="2630" txt_x="535"  txt_y="2615" adr="ул. Олеко Дундича д35к2" info="lolz" />
+	<dot who="-=MEL=-" 	x="620"  y="2640" txt_x="625"  txt_y="2625" adr="ул. Кастанаевская д32к2" info="" />
+	<dot who="Spikerwork" 	x="440"  y="2925" txt_x="445"  txt_y="2902" adr="ул. Герасима Курина 12к3" info="" />
+	<dot who="Eliat" 	x="600"  y="2990" txt_x="585"  txt_y="2995" adr="ул. Герасима Курина д8" info="" />
+	<dot who="voFFka85" 	x="1250" y="2323" txt_x="1255" txt_y="2308" adr="ул. Кастанаевская д8" info="" />
+	<dot who="(filp)Drifter" x="1140" y="2545" txt_x="1145" txt_y="2533" adr="ул. Кастанаевская д9к2" info="" />
+	<dot who="havoc" 	x="410"  y="2580" txt_x="405"  txt_y="2550" adr="ул. Олеко Дундича д32" info="" />
+	<dot who="Am!gO" 	x="1015" y="280 " txt_x="1020" txt_y="265"  adr="Филевский бульвар д8с1" info="" />
+	<dot who="Jed" 		x="1210" y="2260" txt_x="1195" txt_y="2265" adr="Ул. Олеко Дундича д5" info="" />
+	<dot who="brai" 	x="1020" y="2360" txt_x="1025" txt_y="2345" adr="ул. Олеко Дундича д13к1" info="" />
+	<dot who="Volkl" 	x="350"  y="2950" txt_x="355"  txt_y="2935" adr="ул. Пивченкова д1к2" info="" />
+	<dot who="Ирина-z" 	x="1260" y="2430" txt_x="1250" txt_y="2435" adr="ул. Кастанаевская д5" info="" />
+	<dot who="kir242" 	x="290"  y="2670" txt_x="295"  txt_y="2655" adr="ул.Пивченкова д.14" info="" />
+	<dot who="redhorse" 	x="280"  y="2985" txt_x="275"  txt_y="2985" adr="ул.Пивченкова д.1к3" info="" />
+	<dot who="Вишневая" 	x="600"  y="2570" txt_x="605"  txt_y="2575" adr="ул. Олеко Дундича д31" info="" />
+	<dot who="Cloud63" 	x="1135" y="2305" txt_x="1145" txt_y="2290" adr="ул. Олеко Дундича д7" info="" />
+	<dot who="SunBeam" 	x="1250" y="2323" txt_x="1255" txt_y="2323" adr="ул. Кастанаевская д8" info="" />
+	<dot who="SyrypGaika" 	x="1710" y="2010" txt_x="1715" txt_y="1995" adr="Багратионовский пр. д14" info="" />
+	<dot who="бигфут" 	x="1945" y="1830" txt_x="1950" txt_y="1815" adr="Багратионовский пр. д6к2" info="" />
+	<dot who="yournickname" x="2060" y="1717" txt_x="2065" txt_y="1702" adr="ул. Новозаводская д2" info="" />
+	<dot who="" 	x="" y="" txt_x="" txt_y="" adr="" info="" />
+	<dot who="" 	x="" y="" txt_x="" txt_y="" adr="" info="" />
+	<dot who="" 	x="" y="" txt_x="" txt_y="" adr="" info="" />
+	<dot who="" 	x="" y="" txt_x="" txt_y="" adr="" info="" />
+	<dot who="" 	x="" y="" txt_x="" txt_y="" adr="" info="" />
+	<dot who="" 	x="" y="" txt_x="" txt_y="" adr="" info="" />
+	<dot who="" 	x="" y="" txt_x="" txt_y="" adr="" info="" />
+	<dot who="" 	x="" y="" txt_x="" txt_y="" adr="" info="" />
+	<dot who="" 	x="" y="" txt_x="" txt_y="" adr="" info="" />
+	<dot who="" 	x="" y="" txt_x="" txt_y="" adr="" info="" />
+	<dot who="" 	x="" y="" txt_x="" txt_y="" adr="" info="" />
+	<dot who="" 	x="" y="" txt_x="" txt_y="" adr="" info="" />
+	<dot who="" 	x="" y="" txt_x="" txt_y="" adr="" info="" />
+	<dot who="" 	x="" y="" txt_x="" txt_y="" adr="" info="" />
+
+
+
+<!-- 
+textfield alignment
+	above:	x:-5  y:-30
+	right:	x:+5  y:-15 
+	bottom:	x:-15 y:+5 
+	
+-->
+
+</myXMLdata>

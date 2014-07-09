@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<myXMLdata>
+	<myVar name="jpg_map_x0" val="-300" />
+	<myVar name="jpg_map_y0" val="-2200" />
+	<myVar name="jpg_map_1_end" val="1554" />
+	<myVar name="txt_user_x0" val="500" />
+	<myVar name="txt_user_y0" val="10" />
+	<myVar name="txt_user_w" val="300" />
+	<myVar name="txt_user_h" val="130" />
+	<myVar name="text_nik_height" val="18" />
+	<myVar name="text_info_height" val="20" />
+	<myVar name="mc_info_x0" val="495" />
+	<myVar name="mc_info_y0" val="5" />
+
+</myXMLdata>
